@@ -1,16 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://devfest-19-antalya.firebaseapp.com/",
+  "analytics": "UA-116393746-1",
   "prefix": "/",
   "firebase": {
-    "appId": "1:516409946568:web:ad5a56d452fc421c",
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "appId": "1:608391649365:web:91eb53a66526520bf29cdc",
+    "apiKey": "AIzaSyC8uuWaoQN0iWf46iYHm7PF9v2011I-5fY",
+    "authDomain": "devfest-19-antalya.firebaseapp.com",
+    "databaseURL": "https://devfest-19-antalya.firebaseio.com",
+    "projectId": "devfest-19-antalya",
+    "storageBucket": "devfest-19-antalya.appspot.com",
+    "messagingSenderId": "608391649365",
+    "measurementId": "G-HBJDEL71PQ"
   },
-  "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
+  "googleMapApiKey": "AIzaSyDRq_6Bct9-nbVLiGHw6stpTGoKH1WZ6Ig"
 }
