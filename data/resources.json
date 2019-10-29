@@ -1,47 +1,47 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the commuity, learn new things!",
+  "title": "GDG DevFest 2019",
+  "description": "Etkinliğe katıl, yeni şeyler öğren!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "gdg devfest, devfest 19, devfest antalya, gdg antalya, teknoloji etkinliği, google developers group, event, gdg, gde, devfest, google, programlama, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "Aralık 01, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "share": "Paylaş",
+  "followOur": "Takip et",
+  "followUs": "Bizi takip et",
+  "emailUs": "E-posta gönder",
+  "partnershipResources": "Sponsorluk Dökümanı",
+  "eventResources": "Etkinlik Kaynakları",
+  "buyTicket": "Kayıt ol!",
+  "signIn": "Oturum aç",
+  "signOut": "Oturumu kapat",
+  "viewHighlights": "Öne çıkanları izle",
+  "offlineMessage": "Çevrimdışı çalışabilirsin.",
+  "cachingComplete": "Önbelleğe alma tamamlandı! Sonraki ziyaretlerin çevrimdışı çalışacak.",
+  "newVersionAvailable": "Uygulamanın yeni bir sürümü mevcut.",
+  "refresh": "Yenile",
+  "position": "Durum",
+  "country": "Ülke",
+  "time": "Süre",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Programım",
+    "browseSession": "Oturuma göz at"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Hakkında",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Antalya",
+          "url": "https://www.meetup.com/tr-TR/GDGAntalya/",
           "newTab": true
         },
         {
-          "name": "GDG",
+          "name": "Google Developers Group",
           "url": "https://developers.google.com/groups/",
           "newTab": true
         },
@@ -51,248 +51,232 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Takımla Tanışın",
+          "url": "https://goo.gl/STVJXv",
           "newTab": true
         }
       ]
+    
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Önceki DevFest'lere göz at ",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "DevFest 2018",
+          "url": "https://devfest-18-antalya.firebaseapp.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevFest 2017",
+          "url": "https://devfest-antalya.firebaseapp.com/",
           "newTab": true
         }
+        
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Etkinlik Kaynakları",
       "links": [
         {
-          "name": "Partnership Proposition",
+          "name": "Sponsorluk Teklifi",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
+        
+      
         {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
+          "name": "Bildiri Çağrısı",
           "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
           "newTab": true
         },
         {
-          "name": "FAQs",
+          "name": "SSS",
           "url": "/faq/",
           "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "subscribeNote": "En son haber ve güncellemeler için, Spam yok :)",
   "codeOfConduct": "Code of Conduct",
   "codeOfConductBlock": {
-    "organization": "DevFest",
+    "organization": "DevFest Antalya",
     "form": "https://bit.ly/2RstTJ8",
     "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+      "GDG Antalya, info@gdgantalya.com"
+      
     ]
   },
   "aboutBlock": {
-    "title": "About",
+    "title": "Hakkında",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "GDG DevFest Antalya '19, Android, Web ve Bulut teknolojilerinde dünya standartlarında uzmanları ile katılımcıları birden çok oturum, atölye çalışmaları ve vitrinler için Antalya'da buluşturuyor.",
+        "label": "Önceki DevFest'lere göz atın",
+        "link": "https://www.youtube.com/playlist?list=PLOTF3bBT_dK4PxA4khEnMeKK12sNpF-f4"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "DevFest 17'de 800+ katılımcı ve alanında uzman kişileri ağırladık. Birbirinden zengin içeriğe sahip oturumlarla deneyimlerimizi paylaştık.",
+        "label": "DevFest 17'ye göz atın",
+        "youtubeId": "57yuDJeA6KU"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Katılımcı",
+        "number": "1000"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Gün",
+        "number": "1"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Oturum",
+        "number": "15"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Paralel",
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "title": "Bilet",
+    "ticketsDetails": "Etkinliğe katılım ücretsizdir.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "SPONSOR OL",
+    "button": "Sponsorluk ",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Sponsorluk ol!",
+      "submitLabel": "Gönder",
+      "fullName": "İsim - Soyisim",
+      "companyName": "Firma İsmi"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Yakında iletişime geçeceğiz!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFest'17 öne çıkanlar",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "Tüm Videolara Göz At",
+      "link": "https://www.youtube.com/playlist?list=PLOTF3bBT_dK4PxA4khEnMeKK12sNpF-f4"
     }
   },
   "blog": {
-    "published": "Published",
-    "suggested": "Up next"
+    "published": "Yayınlanan",
+    "suggested": "Bir sonraki"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Son haberler",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Tümünü görüntüle",
       "link": "/blog/"
     }
   },
   "speakers": {
-    "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "skills": "Yetenekler",
+    "previousYears": "Önceki Yıllar",
+    "previousYear": "Önceki Yıl"
   },
   "speakersBlock": {
-    "title": "Speakers",
+    "title": "Konuşmacılar",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Tüm konuşmacıları gör",
       "link": "/speakers/"
     }
   },
   "previousSpeakersBlock": {
-    "title": "Previous speakers",
+    "title": "Önceki konuşmacılar",
     "callToAction": {
-      "label": "View all",
+      "label": "Tümünü gör",
       "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#dfantalya18 öne çıkanlar",
+    "description": "Geçen yıl düzenlenen DevFest 18'in Öne çıkan fotoğrafları!",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "TÜM FOTOĞRAFLAR",
+      "link": "https://photos.app.goo.gl/7TBgLUJGqWqAH7Nn6"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Konum"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Etkinlik ile ilgili önemli bilgilerden haberdar ol ",
+      "label": "ABONE OL"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Mail Adresin",
+    "emailAddress": "Mail Adresi",
+    "firstName": "İsim",
+    "lastName": "Soyisim",
+    "formTitle": "GDG Antalya ile ilgili en son gelişmeleri sana mail göndereceğiz.",
+    "emailRequired": "Geçerli bir e-posta adresi girin.",
+    "subscribe": "Abone ol",
+    "subscribed": "Abone olundu",
+    "close": "Kapat",
+    "generalError": "Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz.",
+    "toast": "Abone Olundu."
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google tüm dünyada bilinir. Herkes 'googling', 'haritaları' kontrol etme ve 'gmail' ile iletişim kuruyor. Basit kullanıcılar için, sadece işe yarayan hizmetlerdir, ancak bizim için değil. Geliştiriciler daha fazlasını görüyor: API'ler, ölçeklenebilirlik sorunları, karmaşık teknoloji yığınları. Ve GDG'nin konusu budur. GDG Antalya heyecan verici projeler ve paylaşımlar yapan açık ve gönüllü bir topluluğudur. Amacımız Antalya’nın geliştirici, bilişim ve teknoloji potansiyelinin ortaya koymaktır. Diger bir amacımız da, teknoloji ile ilgilenen insanları teşvik etmek ve onlara destek olmaktır."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Oturumları kaydetmek için giriş yapın"
   },
   "sessionDetails": {
-    "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
-    "speakers": "Speakers"
+    "contentLevel": "İçerik seviyesi",
+    "viewPresentation": "Sunumu görüntüle",
+    "viewVideo": "Videoyu izle",
+    "speakers": "Konuşmacılar"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Oturumlar"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Bildirimleri aç",
+    "enabled": "Sizi özleyeceğiz ama istediğiniz zaman aboneliğinizi iptal edebilirsiniz",
+    "blocked": "Size şu anda bildirim gönderemiyoruz. Lütfen tarayıcınızda bildirimleri etkinleştirin",
+    "subscribe": "Abone Ol",
+    "unsubscribe": "Abonelikten çık",
     "enable": {
-      "label": "Enable",
+      "label": "Aktif",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Açık"
     }
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizasyon",
+        "description": "GDG Antalya olarak organize ettiğimiz etkinlikler ile amacımız Antalya’nın geliştirici,bilişim ve teknoloji potansiyelini ortaya koymaktır. Diğer bir amacımız da, teknoloji ile ilgilenen insanları teşvik etmek ve onlara destek olmaktır.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Takım sayfası",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "GDG Nedir?",
+        "description": "Google Developers Group (GDG) - heyecan verici projeler yaratan ve bir tutkuyla Google teknolojileri hakkında deneyim paylaşan açık ve gönüllü bir topluluktur.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Daha fazla",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "DevFest Nedir?",
+        "description": "DevFest'ler, dünya çapındaki Google Geliştirici Grupları tarafından barındırılan topluluk liderliğindeki geliştirici etkinlikleridir..",
         "callToAction": {
-          "label": "Read more",
+          "label": "Daha fazla",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
@@ -300,21 +284,22 @@
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
+    "alreadyHaveAccount": "Zaten bir hesabınız var",
+    "alreadyUsed": "Bunu zaten kullandın",
     "signInToContinue": {
-      "part1": "Sign in with",
-      "part2": "to continue."
+      "part1": "Şununla giriş yap",
+      "part2": "devam et."
     }
   },
   "filters": {
-    "title": "Filters",
-    "results": "Results",
-    "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
+    "title": "Filtreler",
+    "results": "Sonuçlar",
+    "tags": "Tagler",
+    "complexity": "Zorluk",
+    "clear": "Temizle"
   },
   "addToHomeScreen": {
-    "cta": "Add to Home Screen"
+    "cta": "Ana sayfaya ekle"
   }
 }
+

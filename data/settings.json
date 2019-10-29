@@ -1,52 +1,52 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Antalya",
+    "twitter": "GDGAntalya",
+    "blog": "https://medium.com/gdg-antalya",
+    "url": "https://devfest-19-antalya.firebaseapp.com/team/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-12-013T09:30:00+03:00",
+  "endDate": "2019-12-01T18:30:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest 19",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "tr-TR"
   },
-  "hashtag": "DevFest",
+  "hashtag": "dfantalya19",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "ANA SAYFA"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "KONUŞMACILAR"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "PROGRAM"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "TAKIM"
     },
     {
       "route": "blog",
       "permalink": "/blog/",
-      "label": "Blog"
+      "label": "BLOG"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Etkinliğe katıl, yeni şeyler öğren!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -55,48 +55,48 @@
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Ekibimizden hikayeler okuyun.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "title": "Konuşmacılar",
+      "metaDescription": "Bulut geleceğini inşa eden Google çalışanları, ortakları ve misafir konuşmacılardan haber alın. Etkinlik günü yaklaştıkça daha çok konuşmacı ekleyeceğiz, sık sık kontrol edin.",
+      "description": "Bulut geleceğini inşa eden Google çalışanları, ortakları ve misafir konuşmacılardan haber alın. Etkinlik günü yaklaştıkça daha çok konuşmacı ekleyeceğiz, sık sık kontrol edin.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Önceki Konuşmacılar",
+      "metaDescription": "DevFest 18'de bizimle olanlar.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Program",
+      "metaDescription": "Katılmak istediğiniz oturumlara göz atın.",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Takım",
+      "metaDescription": "Organizatörler hakkında daha fazla bilgi edinin.",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "faq": {
-      "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "title": "SSS",
+      "metaDescription": "Cevaplarını burada bul!",
       "background": {
         "color": "#fff"
       },
@@ -112,21 +112,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "label": "Lokasyon",
+    "name": "Türkan Şoray Kültür Merkezi",
+    "city": "Antalya",
+    "short": "Antalya, Türkiye",
+    "address": "Yeşilbahçe, Çınarlı Cd. No:7, 07160 Muratpaşa/Antalya",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 36.869150,
+      "longitude": 30.724765,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Türkan Şoray Kültür Merkezi 1 Aralık'da GDG Antalya Devfest 19'a ev sahipliği yapacak."
   },
   "mediaQueries": {
     "xs": {
@@ -148,23 +148,28 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDGAntalya/events/265487513/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGAntalya/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/GDGAntalya"
       },
+	  {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/gdg-antalya/"
+      },
+	  
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/gdgantalya/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UC5PJa9CdSD9-ukQ6_rDz2RQ"
       }
     ],
     "share": [
@@ -178,7 +183,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "info@gdgantalya.com",
   "signInProviders": {
     "providersData": [
       {
