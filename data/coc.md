@@ -21,7 +21,7 @@ Katılımcı ortaklar, sponsorlar veya satıcı standları veya benzeri faaliyet
 
 ### Bu politika neden önemlidir?
 
-Etkinliklerde ve çevrimiçi topluluklarda taciz ne yazık ki yaygındır. Resmi bir politika oluşturmak, herhangi bir nedenle bir kimsenin tacizinin, etkinliklerimizde ve topluluklarımızda kabul edilemez olduğunu açıkça belirterek bunu iyileştirmeyi amaçlar. Bu politika, davranış beklentilerini açıkça tanımlayarak tacizi önleyebilir, güvenceyi sağlamayı amaçlar ve diğer etkinliklerde kötü deneyimleri olan kişileri buna katılmaya teşvik eder.
+Etkinliklerde ve çevrimiçi topluluklarda taciz ne yazık ki yaygındır. Resmi bir politika oluşturmak ve herhangi bir nedenle bir kimsenin tacizinin, etkinliklerimizde ve topluluklarımızda kabul edilemez olduğunu açıkça belirterek bunu iyileştirmeyi amaçlar. Bu politika, davranış beklentilerini açıkça tanımlayarak tacizi önleyebilir, güvenceyi sağlamayı amaçlar ve diğer etkinliklerde kötü deneyimleri olan kişileri buna katılmaya teşvik eder.
 
 ### Lisans ve atıf
 

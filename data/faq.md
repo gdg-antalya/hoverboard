@@ -13,7 +13,7 @@ Konferans günü boyunca katılımcılar oturumlara ve uygulamalı atölye çal�
 
 ### Canlı Yayın & Video Kayıt
 
-DevFest'e şahsen katılmayı başaramazsanız, yine de etkinliğin bir parçası olabilirsiniz. Konferanslardan birkaç hafta sonra oturumlardan tüm görüntüler GDG Antalya [youtube kanalı] (https://www.youtube.com/channel/UC5PJa9CdSD9-ukQ6_rDz2RQ/videos) üzerinden ücretsiz olarak sunulacak. Atölyeler kaydedilmeyecek. Ayrıca, katılımcılar tarafından #dfantalya19 ve #Devfest19 hashtag'lerinden bulabileceğiniz canlı bir akış olabilir.
+DevFest'e şahsen katılamazsanız yine de etkinliğin bir parçası olabilirsiniz. Konferanslardan birkaç hafta sonra oturumlardan tüm görüntüler GDG Antalya [youtube kanalı] (https://www.youtube.com/channel/UC5PJa9CdSD9-ukQ6_rDz2RQ/videos) üzerinden ücretsiz olarak sunulacak. Atölyeler kaydedilmeyecek. Ayrıca, katılımcılar tarafından #dfantalya19 ve #Devfest19 hashtag'lerinden bulabileceğiniz canlı bir akış olabilir.
 
 ## Kayıt
 
