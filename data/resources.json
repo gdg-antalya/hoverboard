@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "gdg devfest, devfest 19, devfest antalya, gdg antalya, teknoloji etkinliği, google developers group, event, gdg, gde, devfest, google, programlama, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "Aralık 01, 2019",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://drive.google.com/file/d/1H2bQzmfX6-nnWP8-hYL0ylwcK2Bd6rR2/view",
   "share": "Paylaş",
   "followOur": "Takip et!",
   "followUs": "Bizi takip et",
@@ -78,15 +78,15 @@
       "title": "Etkinlik Kaynakları",
       "links": [
         {
-          "name": "Sponsorluk Teklifi",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "Sponsorluk Dokümanı",
+          "url": "https://drive.google.com/open?id=1H2bQzmfX6-nnWP8-hYL0ylwcK2Bd6rR2",
           "newTab": true
         },
         
       
         {
-          "name": "Bildiri Çağrısı",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "name": "Call For Papers",
+          "url": "https://docs.google.com/forms/d/1eJCVltPRfQOnhA-xEwMCde4j1KmZjmEHGaQgSogI5rY/",
           "newTab": true
         },
         {
@@ -111,12 +111,12 @@
     "title": "Hakkında",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Antalya '19, Android, Web ve Bulut teknolojilerinde dünya standartlarında uzmanları ile katılımcıları birden çok oturum, atölye çalışmaları ve vitrinler için Antalya'da buluşturuyor.",
+        "description": "GDG DevFest Antalya '19, Android, Web ve Bulut teknolojilerinde dünya standartlarında uzmanları ile yüzlerce katılımcıyı çeşitli konular, ondan fazla oturum, workshop ve çok daha fazlası için Antalya'da buluşturuyor.",
         "label": "Önceki DevFest'lere göz atın",
         "link": "https://www.youtube.com/playlist?list=PLOTF3bBT_dK4PxA4khEnMeKK12sNpF-f4"
       },
       "howItWas": {
-        "description": "DevFest 17'de 800+ katılımcı ve alanında uzman kişileri ağırladık. Birbirinden zengin içeriğe sahip oturumlarla deneyimlerimizi paylaştık.",
+        "description": "DevFest 18'de 800+ katılımcı ve alanında uzman kişileri ağırladık. Birbirinden zengin içeriğe sahip oturumlarla deneyimlerimizi paylaştık.",
         "label": "DevFest 17'ye göz atın",
         "youtubeId": "57yuDJeA6KU"
       }
@@ -136,22 +136,22 @@
       },
       "tracks": {
         "label": "Paralel",
-        "number": "3"
+        "number": "2"
       }
     }
   },
   "ticketsBlock": {
     "title": "Bilet",
     "ticketsDetails": "Etkinliğe katılım ücretsizdir.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
+    "soldOut": "Tükendi",
+    "notAvailableYet": "Uygun değil",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "SPONSOR OL",
-    "button": "Sponsorluk ",
+    "title": "Sponsorlar",
+    "button": "Sponsor OL ",
     "form": {
-      "title": "Sponsorluk ol!",
+      "title": "Sponsor ol!",
       "submitLabel": "Gönder",
       "fullName": "İsim - Soyisim",
       "companyName": "Firma İsmi"
@@ -159,7 +159,7 @@
     "toast": "Yakında iletişime geçeceğiz!"
   },
   "featuredVideos": {
-    "title": "DevFest'17 öne çıkanlar",
+    "title": "dfAntalya Önceki Videoları",
     "callToAction": {
       "label": "Tüm Videolara Göz At",
       "link": "https://www.youtube.com/playlist?list=PLOTF3bBT_dK4PxA4khEnMeKK12sNpF-f4"
@@ -259,7 +259,7 @@
         "title": "Organizasyon",
         "description": "GDG Antalya olarak organize ettiğimiz etkinlikler ile amacımız Antalya’nın geliştirici,bilişim ve teknoloji potansiyelini ortaya koymaktır. Diğer bir amacımız da, teknoloji ile ilgilenen insanları teşvik etmek ve onlara destek olmaktır.",
         "callToAction": {
-          "label": "Takım sayfası",
+          "label": "Takım üyeleri",
           "link": "/team"
         }
       },

@@ -3,7 +3,7 @@
     "name": "GDG Antalya",
     "twitter": "GDGAntalya",
     "blog": "https://medium.com/gdg-antalya",
-    "url": "https://devfest-19-antalya.firebaseapp.com/team/"
+    "url": "https://www.meetup.com/GDGAntalya/"
   },
   "startDate": "2019-12-013T09:30:00+03:00",
   "endDate": "2019-12-01T18:30:00+03:00",
@@ -126,7 +126,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Türkan Şoray Kültür Merkezi 1 Aralık'da GDG Antalya Devfest 19'a ev sahipliği yapacak."
+    "description": "Türkan Şoray Kültür Merkezi 1 Aralık'ta GDG Antalya Devfest 19'a ev sahipliği yapacak."
   },
   "mediaQueries": {
     "xs": {
@@ -148,7 +148,7 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDGAntalya/events/265487513/"
+        "url": "https://www.meetup.com/tr-TR/GDGAntalya/"
       },
       {
         "name": "facebook",
